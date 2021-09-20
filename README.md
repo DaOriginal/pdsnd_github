@@ -13,4 +13,4 @@ My project is about analysing the usage of bikes in United States
 BikeShare.py
 
 ### Credits
-I give credits to google.com
+I give credits to google.com, https://git-scm.com/doc
